@@ -29,7 +29,7 @@
     }
 }
 
-#s-prophecy-container:last-of-type{
+#s-prophecy-container:nth-of-type(20){
     margin-top: 500px;
 }
 
